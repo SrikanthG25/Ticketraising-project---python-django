@@ -1,0 +1,5 @@
+superuser ; {
+    username :Ticket
+    email : ticket@gamil.com
+    password : ticket
+}
